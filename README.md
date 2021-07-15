@@ -1,2 +1,4 @@
 # hello-world
-first
+I am trying new things out.
+Git Hub is new
+
